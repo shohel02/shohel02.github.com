@@ -1,10 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Home Page of Shohel </html>
-</head>
+---
+layout: default
+title: Shohel Home Page
+---
 
-<body>
-<h1> Hi my first page </h1>
-</body>
-</html>
+{% for post in site.posts limit:5 %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{{ post.content }}
+{% endfor %}
+
+Welcome
+
