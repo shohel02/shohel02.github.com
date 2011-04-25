@@ -9,7 +9,7 @@ p(meta). 24 April 2011 - Helsinki
 
 h1. Make Your Blog using Jekyll within github
 
---Github is one of the most popular version control systems. One of the neat feature of Github is you can use github as your personalized blogging site. Github, by default, runs Jekyll. Jekyll is a static HTML file generator which works on Markup, textile and HTML formated files.
+Github is one of the most popular version control systems. One of the neat feature of Github is you can use github as your personalized blogging site. Github, by default, runs Jekyll. Jekyll is a static HTML file generator which works on Markup, textile and HTML formated files.
 
 * Pre-requisite and installation
 * Setup
