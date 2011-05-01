@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Blog-with-Jekyll
+title: Comparison-of-security-credentials-between-Amazon-EC2-and-Openstack
 ---
 
 h1. {{ page.title }}
 
-p(meta). 24 April 2011 - Helsinki
+p(meta). 02 May 2011 - Helsinki
 
 <notextile>
 <P STYLE="margin-bottom: 0in"><FONT SIZE=4><B>Comparison of security
@@ -305,3 +305,5 @@ bundling, unbundling of images and creating VPN connection with the
 project VPNs.  These certificates are self signed certificate for
 Openstack. I will cover this topic in details later in another post.</P>
 </notextile>
+
+
