@@ -85,15 +85,10 @@ EC2 access key and EC2 secret key of a particular account to access
 Openstack api server.</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
-<P STYLE="margin-bottom: 0in">( deployment issue: ?? means an an
-account admin will setup the dashboard locally with his EC2 access or
-secret key or the cloud provide initializes dash with account
-details. )</P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 <P STYLE="margin-bottom: 0in">2.2 Amazon Management console</P>
-<OL START=2>
-	<OL START=2>
+
 		<P STYLE="margin-bottom: 0in">Amazon provides a web based
 		<A HREF="https://console.aws.amazon.com/s3/home">management console</A>
 		for managing Amazon cloud services. Using the management console
@@ -105,8 +100,7 @@ details. )</P>
 		the management console.</P>
 		<P STYLE="margin-bottom: 0in">   
 		</P>
-	</OL>
-</OL>
+
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 <P STYLE="margin-bottom: 0in"><B>3.    Running Instances:</B></P>
