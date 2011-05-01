@@ -304,6 +304,10 @@ group:
 bundling, unbundling of images and creating VPN connection with the
 project VPNs.  These certificates are self signed certificate for
 Openstack. I will cover this topic in details later in another post.</P>
+
 </notextile>
 
+h2. Next plan 
+
+Next, we will cover source code flow of security checkpoints in Openstack.
 
