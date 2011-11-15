@@ -22,7 +22,6 @@ In June 2011, I got a friend post on my FB wall  Sexy Marika
 Fruscio“ , an Italian actress, who apparently has problem to place
 his clothes. Naively, I clicked on the link which ,in turn, posts the
 message to all of my FB friends.</P>
-<br>
 
 <p style="clear:both;">
 <IMG SRC="/images/post_15_nov/Personality_Threat%20_html_1a36e87d.png" NAME="graphics8" ALIGN=LEFT WIDTH=489 HEIGHT=289 BORDER=0>
@@ -37,7 +36,10 @@ FB is employing different techniques to enhance security of the site.
 Even in last night, I got a spam message in my FB message box from
 one of my friends.</P>
 
-<P CLASS="western" STYLE="margin-bottom: 0in"><B>Techniques to achieve:</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B> Exploitation Techniques</B></P>
+
+<p style="clear:both;">
+<B>Like jacking</B></P>
 
 <P CLASS="western" STYLE="margin-bottom: 0in">Click jacking is a
 method to perform unexpected actions by clicking on a concealed link.
@@ -64,7 +66,7 @@ submit button it post the message to your wall.
 </P>
 
 <p style="clear:both;">
-<B>Like jacking:</B></P>
+<B>Like jacking</B></P>
 <P CLASS="western" STYLE="margin-bottom: 0in">Like-jacking is similar
 to click-jacking in which users are forced to Like a clip to watch
 it. Naive users clicks the like button to watch the videos. The
@@ -89,8 +91,8 @@ linked with the mouse pointer. This allows the attacker to disguise
 FB like button activity while the user plays the clip. 
 </P>
 
-<P CLASS="western" STYLE="margin-bottom: 0in"><B>Malicious script
-scam: </B>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Malicious script scam </B> </p>
+
 <P CLASS="western" STYLE="margin-bottom: 0in">This another common way
 of spamming using your FB account. In malicious script scam, the
 attacker lures the user with some lucrative offer and a link to get
@@ -104,9 +106,7 @@ wall and so on.</P>
 <p style="clear:both;">
 Picture from  https://www.facebook.com/help/?page=18970</P>
 
-<P CLASS="western" STYLE="margin-bottom: 0in"><B>Malicious apps in
-Facebook: </B>
-</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Malicious apps in Facebook</B> </P>
 
 <P CLASS="western" STYLE="margin-bottom: 0in">People love playing
 with apps, such as  Farmvile, Zynga, and so on, in Facebook.  Over
@@ -121,8 +121,7 @@ to your personal information through FB apps.</P>
 <p style="clear:both;"> An example malicious apps. Picture from 
 http://www.techairlines.com/2011/05/16/facebook-spam/</P>
 
-<P CLASS="western" STYLE="margin-bottom: 0in"><B>Prevention
-techniques:</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Prevention Techniques: </B></P>
 
 <P CLASS="western" STYLE="margin-bottom: 0in">Facebook, as a service
 provider, is constantly improving their security features. However,
