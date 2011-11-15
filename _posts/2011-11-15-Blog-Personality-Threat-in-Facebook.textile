@@ -1,0 +1,179 @@
+---
+layout: post
+title: Personality Threat in the Age of Online Social Networking
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 November 2011 - Helsinki
+
+<notextile>
+<P CLASS="western" STYLE="margin-bottom: 0in">For a long time, I was
+planning to write a blog related to  personality threat of online
+social networking sites. Most of the social networking sites, for
+example, Twitter, Google+, or Facebook, especially the latter one,
+ is now ingrained to our life. So, our personality is largely
+defined by the way we portray ourselves in these media.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">
+<IMG SRC="../images/post_15_nov/Personality_Threat%20_html_m7f6b09b.png" NAME="graphics8" ALIGN=LEFT WIDTH=489 HEIGHT=289 BORDER=0>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A NAME="eow-title"></A><A NAME="watch-headline-title"></A>
+In June 2011, I got a friend post on my FB wall  Sexy Marika
+Fruscio“ , an Italian actress, who apparently has problem to place
+his clothes. Naively, I clicked on the link which ,in turn, posts the
+message to all of my FB friends.</P>
+<br>
+
+
+<P CLASS="western" STYLE="margin-bottom: 0in">
+<IMG SRC="../images/post_15_nov/Personality_Threat%20_html_m7f6b09b.png" NAME="graphics8" ALIGN=LEFT WIDTH=489 HEIGHT=289 BORDER=0>
+</P>
+
+</br>
+
+<P CLASS="western" STYLE="margin-bottom: 0in">The is continues for a
+while and I got several other repeated posts in my FB wall.  The
+nature of such  attack is that, it apparently fools me between the
+intension and actions related to my FB wall. After that four months
+have passed and these type of attack is still continuing even though
+FB is employing different techniques to enhance security of the site.
+Even in last night, I got a spam message in my FB message box from
+one of my friends.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Techniques to
+achieve:</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Click jacking is a
+method to perform unexpected actions by clicking on a concealed link.
+It uses HTML /CSS tricks to load a page over another page.  This
+mean, the web page viewer performs an actions, and it turns out to be
+a different action. For example, in the following picture, you are
+browsing a web page which is asking to solve this Captcha. 
+</P>
+<br>
+<P CLASS="western" STYLE="margin-bottom: 0in"><IMG SRC="../images/post_15_nov/Personality_Threat%20_html_715c8114.jpg" NAME="graphics4" ALIGN=LEFT WIDTH=528 HEIGHT=325 BORDER=0>Picture
+from:
+http://community.websense.com/blogs/securitylabs/archive/2011/05/02/a-weekend-of-click-jacking-on-facebook.aspx</P>
+</br>
+<P CLASS="western" STYLE="margin-bottom: 0in">While, in reality, it
+disguises FB comment interface and as soon as the user clicks the
+submit button it post the message to your wall. 
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><IMG SRC="../images/post_15_nov/Personality_Threat%20_html_53e47496.png" NAME="graphics5" ALIGN=LEFT WIDTH=622 HEIGHT=148 BORDER=0><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Like jacking:</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Like-jacking is similar
+to click-jacking in which users are forced to Like a clip to watch
+it. Naive users clicks the like button to watch the videos. The
+following is a classic example to trap you under Like jacking attack.
+ Normally, you see a FB wall post from a friend which lures you to
+click the link to watch it.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><IMG SRC="../images/post_15_nov/Personality_Threat%20_html_3386de3a.png" NAME="graphics6" ALIGN=LEFT WIDTH=548 HEIGHT=162 BORDER=0>Naive
+users also click the Like button to watch the videos.  
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><IMG SRC="../images/post_15_nov/Personality_Threat%20_html_m36343d9f.png" NAME="graphics7" ALIGN=LEFT WIDTH=538 HEIGHT=364 BORDER=0><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">This attack can also be
+performed from a web page which has a FB Like button. Some previous
+Like attacks changes the 'Like button' to become transparent and
+linked with the mouse pointer. This allows the attacker to disguise
+FB like button activity while the user plays the clip. 
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Malicious script
+scam: </B>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">This another common way
+of spamming using your FB account. In malicious script scam, the
+attacker lures the user with some lucrative offer and a link to get
+the offer. When you copy / paste  the link in your browser, you allow
+the malicious script to take control of your FB account.  The script
+can do anything from sending message, writing on your or your friends
+wall and so on.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"> <IMG SRC="../images/post_15_nov/Personality_Threat%20_html_483967b2.png" NAME="graphics2" ALIGN=LEFT WIDTH=665 HEIGHT=466 BORDER=0>
+              Picture from  https://www.facebook.com/help/?page=18970</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Malicious apps in
+Facebook: </B>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">People love playing
+with apps, such as  Farmvile, Zynga, and so on, in Facebook.  Over
+the years, a huge number of third party apps has been accumulated
+within FB which did not follow the security and privacy standards.
+This loophole is exploited by the spammers to gain access to access
+to your personal information through FB apps.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><IMG SRC="../images/post_15_nov/Personality_Threat%20_html_m117fac23.png" NAME="graphics3" ALIGN=LEFT WIDTH=600 HEIGHT=419 BORDER=0><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">     An example
+malicious apps. Picture from 
+http://www.techairlines.com/2011/05/16/facebook-spam/</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Prevention
+techniques:</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">Facebook, as a service
+provider, is constantly improving their security features. However,
+this does not mean that attacks against your personality is solved.
+In fact, we will continue to see more similar  and new attacks
+against social networking sites. However, as attackers continue to
+employ new methods to exploit online social networking features, you
+can effectively reduce personality related threats through safe
+practices:</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">a) Use common sense. if
+something looks suspicious and weird, do not click on the link within
+or outside FB.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">b) If you do want to
+click on the link, start private browsing from your web browser.
+Almost, all web browsers supports private browsing. ( Be cautions,
+not to be logged in the FB when you are clicking a malicious link
+during private browsing session.).</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">c)Update web browser
+regularly to mitigate browser vulnerabilities.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">d)Send abuse report to
+Facebook if you are victim of some these attack.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">In next posts, I will
+write about the technical and social aspect of personality threat in
+Facebook.</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><B>Interested to know
+more:</B></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><A HREF="http://community.websense.com/blogs/securitylabs/archive/2011/05/02/a-weekend-of-click-jacking-on-facebook.aspx">http://community.websense.com/blogs/securitylabs/archive/2011/05/02/a-weekend-of-click-jacking-on-facebook.aspx</A></P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">http://www.techairlines.com/2011/05/16/facebook-spam/</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">https://www.facebook.com/notes/facebook-security/keeping-you-safe-from-scams-and-spam/10150174826745766</P>
+<P CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P CLASS="western" STYLE="margin-bottom: 0in">http://blog.kotowicz.net/2011/03/whos-behind-facebook-clickjacking-scams.html</P>
+</notextile>
